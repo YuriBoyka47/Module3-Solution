@@ -1,0 +1,55 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
+.navbar-brand h2{
+	color: black;
+	font-weight: bold;
+}
+
+.navbar-header {
+	height: 70px;
+
+}
+
+.container {
+	height: 1000px;
+	border-color: black;
+	border-width: 1px;
+}
+
+.couleur {
+	background-color: dimgrey;
+	border-width: 1px;
+	border-color: black;
+	border-style: solid;
+	margin: 5px;
+}
+
+
+#nav-list a {
+	text-align: center;
+	background-color: ghostwhite;
+	color: black;
+	font-weight: bold;
+}
+
+#nav-list a:hover {
+	background-color: dimgrey;
+}
+ 
+
+.text-center {
+	padding-top: 20px;
+	color: black;
+}
+
+p {
+	border-color: dimgrey;
+}
+
+.navbar-header button.navbar-toggle {
+	clear: both;
+}
